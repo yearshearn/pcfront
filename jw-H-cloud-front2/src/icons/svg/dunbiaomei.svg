@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210px" height="120px" viewBox="0 0 210 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>dunbiaomei</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="210" height="120" rx="4"></rect>
+        <linearGradient x1="51.7882906%" y1="97.3686769%" x2="51.7882906%" y2="2.63132314%" id="linearGradient-3">
+            <stop stop-color="#026C6D" offset="0%"></stop>
+            <stop stop-color="#06D6D7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="51.7882906%" y1="97.3686769%" x2="51.7882906%" y2="2.63132314%" id="linearGradient-4">
+            <stop stop-color="#00FEFF" offset="0%"></stop>
+            <stop stop-color="#01C8D0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="能耗管理1" transform="translate(-698.000000, -113.000000)">
+            <g id="dunbiaomei" transform="translate(698.000000, 113.000000)">
+                <g id="椭圆形">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#02BDBE" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <ellipse fill="url(#linearGradient-3)" fill-rule="nonzero" mask="url(#mask-2)" cx="13.2085561" cy="107.981651" rx="40.6417112" ry="40.3669725"></ellipse>
+                    <ellipse id="椭圆形-copy-3" fill="url(#linearGradient-4)" fill-rule="nonzero" mask="url(#mask-2)" cx="182.887701" cy="18.1651376" rx="40.6417112" ry="40.3669725"></ellipse>
+                </g>
+                <g id="nenghaolvse" transform="translate(164.000000, 20.596205)" fill="#FDFDFD">
+                    <polygon id="Shape" points="0.238633527 17.5919111 18.4588272 5.47117907e-13 17.0127801 10.4713757 25.7613651 10.3317573 6.52893848 30.4367986 9.99945156 18.1503845"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
